@@ -1,1 +1,1 @@
-# INfoViz_Assignment4
+# InfoViz_Assignment4
